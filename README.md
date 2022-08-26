@@ -1,1 +1,2 @@
 [![jhyahav's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyahav&langs_count=10&layout=compact&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyahav&langs_count=10&layout=compact&theme=github_dark)
+[![jhyahav's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhyahav&theme=github-dark)](https://git.io/streak-stats)
