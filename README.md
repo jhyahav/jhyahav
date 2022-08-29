@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0a66c2)](https://www.linkedin.com/in/jhyahav/)
 </br>
