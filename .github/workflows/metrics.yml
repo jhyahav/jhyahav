@@ -78,4 +78,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 20
           plugin_topics_mode: icons
-          plugin_topics_sort: activity
+          plugin_topics_sort: stars
