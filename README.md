@@ -1,4 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0a66c2)](https://www.linkedin.com/in/jhyahav/)
+![Metrics](/github-metrics.svg)
+
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0a66c2)](https://www.linkedin.com/in/jhyahav/)
 </br>
 [![jhyahav's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyahav&langs_count=10&layout=compact&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyahav&langs_count=10&layout=compact&theme=github_dark)
 </br>
@@ -24,3 +26,4 @@
 [node-url]: https://nodejs.org/
 [gcp]: https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 [gcp-url]: https://cloud.google.com/
+ -->
