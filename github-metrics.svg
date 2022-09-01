@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2688" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3061" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            909 Commits
+                            910 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,13 +185,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    317 MB used
+                                    318 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    122k added, 52.1k removed
+                                    108k added, 45.4k removed
                                 </div>
                             </section>
                             <section>
@@ -239,14 +239,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.946395903809" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="174.946395903809" y="0" width="118.12949955396837" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="293.0758954577774" y="0" width="61.56176771606984" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="354.6376631738472" y="0" width="40.74477792588721" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.3824410997344" y="0" width="27.51085148971645" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="422.8932925894509" y="0" width="17.49793044242542" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="440.3912230318763" y="0" width="10.35006548123966" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.741288513116" y="0" width="9.258711486884042" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.61197438720993" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="175.61197438720993" y="0" width="117.85367615784844" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="293.46565054505834" y="0" width="61.41802567105393" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="354.88367621611224" y="0" width="40.649641968619086" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.53331818473134" y="0" width="27.446615744058544" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.9799339287899" y="0" width="17.457074105795503" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="440.4370080345854" y="0" width="10.325898865602769" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.7629069001881" y="0" width="9.237093099811807" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -525,12 +525,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 77 commits)</small>
+                    <small class="h-details">(computed from last 78 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 82.4 characters per line of code written</li>
+                        <li>Has approximately 81.2 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -591,8 +591,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -687,8 +687,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 23.684210526315788px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -708,32 +708,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 19.754133593145543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 17.945536624435707%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 15.325099578760353%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.575942915392456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 11.6525775854658%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.84330857725353%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 2.0655070636444393%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 2.9217999126256005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.1003811215863828%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.1183923110528615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.03438691004957446%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.03494975972040192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3096,7 +3096,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 30 Aug 2022, 10:53:30
+                            On 31 Aug 2022, 18:07:22
                         </div>
                     </section>
                 </div>
@@ -3106,30 +3106,30 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            improved appearance of tea, hobbies billboards on smaller screens
-added max viewport width
+                            added working, styled buttons
+cleaned up gallery code
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5e698361</span>
-                            <span class="code">lib/constants.tsx</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
+                            <span class="code">87c9c86b</span>
+                            <span class="code">components/Gallery/Gallery.tsx</span>
+                            <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--20</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,7 +25,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">() =&gt; new Vector3(-200, -100, 200),<br /></span><span class="token prefix unchanged">·</span><span class="token line">() =&gt; new Vector3(-350, -250, 100),<br /></span><span class="token prefix unchanged">·</span><span class="token line">() =&gt; new Vector3(150, -175, 225),<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">() =&gt; new Vector3(10, 60, -80),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">() =&gt; new Vector3(0, 100, -40),<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">() =&gt; new Vector3(0, 200, -25),<br /></span><span class="token prefix unchanged">·</span><span class="token line">() =&gt; new Vector3(-50, -60, 550),<br /></span><span class="token prefix unchanged">·</span><span class="token line">() =&gt; new Vector3(0, -35, 80),<br /></span></span>@@ -69,7 +69,7 @@ export const [<br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.16, 0.13),<br /></span><span class="token prefix unchanged">·</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.29, 0.2),<br /></span><span class="token prefix unchanged">·</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.42, 0.22),<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.57, 0.15),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.57, 0.17),<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.69, 0.17),<br /></span><span class="token prefix unchanged">·</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.84, 0.155),<br /></span><span class="token prefix unchanged">·</span><span class="token line">(scroll: ScrollControlsState) =&gt; scroll.visible(0.91, 1),</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,10 +1,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import { ImageProps } from "./../TextComponents/TextImageBillboard";<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import { ThreeEvent, useFrame } from "@react-three/fiber";<br /></span><span class="token prefix deleted">-</span><span class="token line">import { useEffect, useState } from "react";<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { ThreeEvent } from "@react-three/fiber";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { useState } from "react";<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import GalleryControls from "./GalleryControls";<br /></span><span class="token prefix unchanged">·</span><span class="token line">import GalleryContents from "./GalleryContents";<br /></span><span class="token prefix unchanged">·</span><span class="token line">import { Vector3 } from "three";<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import { EPSILON } from "../../lib/constants";<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">export interface GalleryImageProps extends ImageProps {<br /></span><span class="token prefix unchanged">·</span><span class="token line"> onClick: (event: ThreeEvent&lt;MouseEvent&gt;) =&gt; void;<br /></span></span>@@ -28,30 +27,14 @@ export default function Gallery({<br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> //TODO: add me<br /></span><span class="token prefix unchanged">·</span><span class="token line"> //const [currentWidth, setCurrentWidth] = useState();<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> useEffect(() =&gt; {<br /></span><span class="token prefix deleted">-</span><span class="token line">   console.log(currentIndex);<br /></span><span class="token prefix deleted">-</span><span class="token line">   console.log(prevIndex);<br /></span><span class="token prefix deleted">-</span><span class="token line"> }, [currentIndex, prevIndex]);<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line"> // useFrame((state, delta) =&gt; {<br /></span><span class="token prefix deleted">-</span><span class="token line"> //   if (<br /></span><span class="token prefix deleted">-</span><span class="token line"> //     Math.ceil(state.clock.elapsedTime) % 2 === 0 &amp;&amp;<br /></span><span class="token prefix deleted">-</span><span class="token line"> //     Math.round(state.clock.elapsedTime) - state.clock.elapsedTime &lt; EPSILON<br /></span><span class="token prefix deleted">-</span><span class="token line"> //   ) {<br /></span><span class="token prefix deleted">-</span><span class="token line"> //     setPrevIndex(currentIndex);<br /></span><span class="token prefix deleted">-</span><span class="token line"> //     setCurrentIndex((currentIndex + 1) % imageProps.length);<br /></span><span class="token prefix deleted">-</span><span class="token line"> //     console.log(state.clock.elapsedTime);<br /></span><span class="token prefix deleted">-</span><span class="token line"> //   }<br /></span><span class="token prefix deleted">-</span><span class="token line"> // });<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> return (<br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;group position={position}&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">     &lt;GalleryContents<br /></span><span class="token prefix unchanged">·</span><span class="token line">       {...{ width, height, imageProps, currentIndex, prevIndex }}<br /></span><span class="token prefix unchanged">·</span><span class="token line">     /&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">     &lt;GalleryControls<br /></span><span class="token prefix unchanged">·</span><span class="token line">       imageCount={imageProps.length}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">       {...{ currentIndex, setCurrentIndex, setPrevIndex }}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">       {...{ currentIndex, setCurrentIndex, setPrevIndex, width }}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">     /&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;/group&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"> );</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2022, 10:24:27 (timezone Asia/Jerusalem) with lowlighter/metrics@3.28.0-beta</span>
+                <span>Last updated 1 Sept 2022, 11:30:50 (timezone Asia/Jerusalem) with lowlighter/metrics@3.28.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
