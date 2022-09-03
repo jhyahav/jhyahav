@@ -2847,7 +2847,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typesense/typesense</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences</div>
@@ -3110,7 +3110,7 @@ minor style adjustments
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2022, 19:29:29 (timezone Asia/Jerusalem) with lowlighter/metrics@3.28.0-beta</span>
+                <span>Last updated 3 Sept 2022, 20:23:35 (timezone Asia/Jerusalem) with lowlighter/metrics@3.28.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
