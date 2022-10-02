@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (every 3 hours)
   schedule: [{cron: "0 */3 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_timezone: America/New_York
+          config_timezone: Asia/Jerusalem
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
