@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_timezone: Asia/Jerusalem
+          config_timezone: America/New_York
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
