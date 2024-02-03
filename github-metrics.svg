@@ -3001,7 +3001,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gregnb/filemanager-webpack-plugin</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Copy, move, archive (zip/tar/tar.gz), delete files and directories before and after Webpack builds. Win32/Mac/*Nix supported</div>
@@ -3204,7 +3204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Feb 2024, 08:04:06 (timezone Asia/Jerusalem) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Feb 2024, 11:03:16 (timezone Asia/Jerusalem) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
